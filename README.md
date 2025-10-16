@@ -52,6 +52,7 @@ Explore a treacherous new environment filled with rare loot, volcanic hazards, a
 3. Place the `.jar` in your `mods` folder.  
 4. Launch Minecraft with the Forge profile.  
 5. Explore the Molten Expanse and survive… if you can.  
+[![](https://gamebanana.com/mods/embeddables/627385?type=large)](https://gamebanana.com/mods/627385)
 
 ---
 
